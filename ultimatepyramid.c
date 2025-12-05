@@ -17,11 +17,12 @@ int main()
 	   		printf(" ");
 		   }
 		   
-	   	for(j=1;j<=i;j++){ //her we have done that part of decreasinfg stars
+	   	for(j=1;j<=i;j++){ //here we have done that part of decreasinfg stars
 	   		printf(" *");
 		   }
 		   printf("\n");
 	   }
 	   return 0;
 }
+
 
